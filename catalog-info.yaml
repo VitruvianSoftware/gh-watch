@@ -43,10 +43,10 @@ metadata:
     - url: https://github.com/VitruvianSoftware/gh-watch
       title: GitHub Mirror
       icon: github
-    - url: https://github.com/VitruvianSoftware/vitruvian-core/tree/main/apps/desktop/antigravity/plugins/gh-watch
+    - url: https://github.com/VitruvianSoftware/vitruvian-core/tree/main/apps/antigravity/plugins/gh-watch
       title: Source Tree
       icon: github
-    - url: https://github.com/VitruvianSoftware/vitruvian-core/blob/main/apps/desktop/antigravity/plugins/gh-watch/README.md
+    - url: https://github.com/VitruvianSoftware/vitruvian-core/blob/main/apps/antigravity/plugins/gh-watch/README.md
       title: Component Overview
       icon: docs
 spec:

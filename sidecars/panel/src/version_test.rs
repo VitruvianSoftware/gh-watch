@@ -9,7 +9,7 @@ use serde_json::Value;
 use std::fmt;
 use std::fs;
 
-const PKG: &str = "apps/desktop/antigravity/plugins/gh-watch";
+const PKG: &str = "apps/antigravity/plugins/gh-watch";
 
 fn read_file(rel: &str) -> String {
     let full = format!("{PKG}/{rel}");

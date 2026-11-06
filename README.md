@@ -240,12 +240,12 @@ rustc --edition 2021 --test hooks/src/lib.rs -o /tmp/gh-watch-hook-test && /tmp/
 
 This plugin is developed in the
 [vitruvian-core](https://github.com/VitruvianSoftware/vitruvian-core)
-monorepo, under `apps/desktop/antigravity/plugins/gh-watch`, and published
+monorepo, under `apps/antigravity/plugins/gh-watch`, and published
 from there to [VitruvianSoftware/gh-watch](https://github.com/VitruvianSoftware/gh-watch).
 In the monorepo the same tests run through Bazel:
 
 ```bash
-bazel test //apps/desktop/antigravity/plugins/gh-watch/...
+bazel test //apps/antigravity/plugins/gh-watch/...
 ```
 
 After changing `main.mjs` or anything under `lib/`, disable and re-enable the

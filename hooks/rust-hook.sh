@@ -36,8 +36,8 @@
 # For tests: RUST_HOOK_RUSTC, if set, is the only rustc tried, and
 # RUST_HOOK_WHICH=1 prints the binary path and stops.
 #
-# This file is identical in every plugin under apps/desktop/antigravity/plugins
-# (//apps/desktop/antigravity:shared_files_test checks it).
+# This file is identical in every plugin under apps/antigravity/plugins
+# (//apps/antigravity:shared_files_test checks it).
 
 umask 077
 

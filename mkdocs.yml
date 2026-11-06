@@ -21,7 +21,7 @@
 site_name: antigravity-gh-watch
 site_description: Antigravity plugin that wakes a conversation when its pull request's CI starts failing
 repo_url: https://github.com/VitruvianSoftware/vitruvian-core
-edit_uri: edit/main/apps/desktop/antigravity/plugins/gh-watch/docs
+edit_uri: edit/main/apps/antigravity/plugins/gh-watch/docs
 docs_dir: docs
 plugins:
   - techdocs-core
